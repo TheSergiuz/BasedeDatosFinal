@@ -1,4 +1,4 @@
-# Parcial 2 de Base de Datos
+# Parcial Final de Base de Datos
 **Base de Datos Básica para una Biblioteca**
 
 ## Información del Curso  
@@ -7,7 +7,7 @@
 - **Integrantes:**  
   - Sergio Andrés Acosta Navarro  
   - Lisseth Orduz  
-- **Fecha:** Octubre, 2025
+- **Fecha:** Noviembre, 2025
 
 ---
 ## .SQL
