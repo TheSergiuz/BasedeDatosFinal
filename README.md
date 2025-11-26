@@ -13,13 +13,6 @@
 ## .SQL
 **Acontinuación, el código para PostgreSQL con los comentarios incluidos**
 ```
--- Como mencionamos en el primer entregable,
--- el proyecto de la RadioApp tiene tiene como fin hacer una App lo más simple posible
--- y que consuma la menor cantidad posible de datos/internet del usuario,
--- así que no logramos imaginarnos ningún tipo de base de datos para la RadioApp,
--- debido a esto realizamos la base de datos de una biblioteca,
--- pero esta vez con las correciones que ud nos mencionó en el entregable anterior,gracias.
-
 -- Lisseth Orduz & Sergio Acosta
 
 -- Tabla Generos
